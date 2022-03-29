@@ -1,0 +1,1 @@
+SELECT * from m_FQ_minute where time >= '{}' and time <= '{}';

@@ -1,0 +1,6 @@
+SELECT 
+	JCDXH 排口ID, 
+	WRWBH 污染物ID, 
+	SX 污染物浓度上限值
+FROM 
+	T_ZXJC_JCBZ
